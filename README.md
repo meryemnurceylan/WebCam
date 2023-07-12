@@ -13,6 +13,9 @@ Aldığımız görüntü veya görüntülerin proje içinde bir dosyaya kaydolma
 Bu şekide web cam açılacak görüntü alıp kaydedecek ve 't' harfine basarak web cam dahil açılan sayfalardan çıkış yapılması sağlanacaktır.
 
 
+İyi çalışmalar...
+
+
 
 
 
